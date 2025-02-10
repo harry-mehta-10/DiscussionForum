@@ -1,0 +1,24 @@
+@model DiscussionForum.Models.Comment
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create" asp-controller="Comments">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group mb-3">
+                <label asp-for="Content" class="control-label">Your Comment</label>
+                <textarea asp-for="Content" class="form-control" rows="3" required></textarea>
+                <span asp-validation-for="Content" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="DiscussionId" value="@ViewBag.DiscussionId" />
+            <div class="form-group mb-3">
+                <input type="submit" value="Post Comment" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

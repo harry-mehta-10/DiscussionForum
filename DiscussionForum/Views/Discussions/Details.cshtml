@@ -1,0 +1,73 @@
+@model DiscussionForum.Models.Discussion
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Discussion</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Content)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Content)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CreateDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CreateDate)
+        </dd>
+        <dt class="col-sm-2">Image</dt>
+        <dd class="col-sm-10">
+            @if (!string.IsNullOrEmpty(Model.ImageFileName))
+            {
+                <img src="~/images/@Model.ImageFileName" alt="Discussion Image" style="max-width: 500px; height: auto;" />
+            }
+            else
+            {
+                <p>No image uploaded.</p>
+            }
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.DiscussionId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+<hr />
+
+<h4>Comments</h4>
+<div id="comments">
+    @foreach (var comment in Model.Comments)
+    {
+        <div>
+            <strong>@comment.Author</strong> commented on @comment.CreateDate.ToShortDateString():
+            <p>@comment.Content</p>
+        </div>
+    }
+</div>
+
+<h4>Add a New Comment</h4>
+<form asp-action="Create" asp-controller="Comments" method="post">
+    <input type="hidden" name="DiscussionId" value="@Model.DiscussionId" />
+    <div>
+        <label for="Content">Comment:</label>
+        <textarea name="Content" required></textarea>
+    </div>
+    <button type="submit">Create Comment</button>
+</form>
+
+<a asp-action="Index" asp-controller="Discussions">Back to Discussions</a>

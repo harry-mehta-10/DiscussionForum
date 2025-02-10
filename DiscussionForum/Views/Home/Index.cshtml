@@ -1,0 +1,32 @@
+﻿@model IEnumerable<dynamic>
+@{
+    ViewData["Title"] = "Home";
+}
+<h1>Discussion Threads</h1>
+<p>
+    <a asp-controller="Discussions" asp-action="Create" class="btn btn-primary">Create New Discussion</a>
+</p>
+<div class="row">
+    @foreach (var discussion in Model)
+    {
+        <div class="col-md-4">
+            <div class="card mb-4">
+                @if (!string.IsNullOrEmpty(discussion.ImageFileName))
+                {
+                    <img src="~/images/@discussion.ImageFileName" alt="Discussion Image" class="card-img-top" style="max-height: 200px; object-fit: cover;" />
+                }
+                <div class="card-body">
+                    <h5 class="card-title">
+                        <a asp-controller="Discussions" asp-action="Details" asp-route-id="@discussion.DiscussionId">@discussion.Title</a>
+                    </h5>
+                    <p class="card-text">
+                        Number of Comments: @discussion.CommentCount
+                    </p>
+                    <p class="card-text text-muted">
+                        Created on: @discussion.CreateDate.ToString("g")
+                    </p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
