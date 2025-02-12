@@ -7,72 +7,16 @@
       "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\models\\discussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:models\\discussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\controllers\\discussionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:controllers\\discussionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Home\\GetDiscussion.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\GetDiscussion.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\views\\discussions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:views\\discussions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\views\\discussions\\getdiscussion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:views\\discussions\\getdiscussion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\views\\discussions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -103,6 +47,10 @@
       "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:views\\comments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\views\\comments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:views\\comments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -115,24 +63,48 @@
       "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\models\\discussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:models\\discussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\controllers\\discussionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:controllers\\discussionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\controllers\\commentsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:controllers\\commentsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\views\\home\\getdiscussion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:views\\home\\getdiscussion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Migrations\\20250210000123_AddCommentsToDiscussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250210000123_AddCommentsToDiscussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\migrations\\20250206185948_addimagefilenametodiscussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:migrations\\20250206185948_addimagefilenametodiscussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|c:\\users\\harry\\desktop\\inft 4000\\inft-4000-assignment-01\\discussionforum\\migrations\\20250212165000_makeauthoroptional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F4DC306-9BDB-48D0-986B-5542B8669023}|DiscussionForum.csproj|solutionrelative:migrations\\20250212165000_makeauthoroptional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -150,81 +122,87 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Discussions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Details.cshtml",
+              "RelativeToolTip": "Views\\Discussions\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T02:20:31.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T15:58:27.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Comments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Comments\\Index.cshtml",
+              "RelativeToolTip": "Views\\Comments\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T17:20:03.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Discussions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Create.cshtml",
+              "RelativeToolTip": "Views\\Discussions\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T16:30:09.975Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T15:27:35.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Data\\ApplicationDbContextFactory.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Data\\ApplicationDbContextFactory.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T15:37:22.206Z",
-              "EditorCaption": ""
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Discussions\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Discussions\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T17:20:09.184Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "Models\\Comment.cs",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Models\\Comment.cs",
-              "RelativeToolTip": "Models\\Comment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T15:23:40.058Z",
-              "EditorCaption": ""
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Discussions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Discussions\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T16:06:30.069Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Discussion.cs",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Models\\Discussion.cs",
-              "RelativeDocumentMoniker": "Models\\Discussion.cs",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Models\\Discussion.cs",
-              "RelativeToolTip": "Models\\Discussion.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T15:23:02.045Z",
-              "EditorCaption": ""
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Discussions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Index.cshtml",
+              "RelativeToolTip": "Views\\Discussions\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T16:03:56.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAIwDgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T00:58:03.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T16:02:50.296Z"
             },
             {
               "$type": "Document",
@@ -234,222 +212,62 @@
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-10T01:13:10.266Z",
+              "WhenOpened": "2025-02-12T16:07:34.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T15:37:48.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DiscussionsController.cs",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Controllers\\DiscussionsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DiscussionsController.cs",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Controllers\\DiscussionsController.cs",
-              "RelativeToolTip": "Controllers\\DiscussionsController.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAwwLAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T16:04:05.898Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwF8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-12T15:48:34.98Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CommentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Controllers\\CommentsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CommentsController.cs",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Controllers\\CommentsController.cs",
-              "RelativeToolTip": "Controllers\\CommentsController.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T15:58:28.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T15:19:03.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T02:09:47.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T02:09:44.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GetDiscussion.cshtml",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Home\\GetDiscussion.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\GetDiscussion.cshtml",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Home\\GetDiscussion.cshtml",
-              "RelativeToolTip": "Views\\Home\\GetDiscussion.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T23:25:12.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Home\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Home\\Error.cshtml",
-              "RelativeToolTip": "Views\\Home\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T15:39:13.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Discussions\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Index.cshtml",
-              "RelativeToolTip": "Views\\Discussions\\Index.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAADwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T16:04:45.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GetDiscussion.cshtml",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\GetDiscussion.cshtml",
-              "RelativeDocumentMoniker": "Views\\Discussions\\GetDiscussion.cshtml",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\GetDiscussion.cshtml",
-              "RelativeToolTip": "Views\\Discussions\\GetDiscussion.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T23:53:22.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Discussions\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Discussions\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T02:08:52.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Discussions\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Discussions\\Delete.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T02:08:45.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T15:38:54.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Comments\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Comments\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Comments\\Index.cshtml",
-              "RelativeToolTip": "Views\\Comments\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T16:04:22.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Comments\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Comments\\Edit.cshtml",
               "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Comments\\Edit.cshtml",
               "RelativeToolTip": "Views\\Comments\\Edit.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T16:15:39.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T17:20:01.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 10,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Comments\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Comments\\Details.cshtml",
               "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Comments\\Details.cshtml",
               "RelativeToolTip": "Views\\Comments\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T16:15:38.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T17:19:31.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:19:32.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Comments\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Comments\\Delete.cshtml",
@@ -457,25 +275,23 @@
               "RelativeToolTip": "Views\\Comments\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T16:15:37.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T17:19:29.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Comments\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Comments\\Create.cshtml",
               "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Comments\\Create.cshtml",
               "RelativeToolTip": "Views\\Comments\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T15:59:28.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T17:18:45.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 14,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -483,38 +299,107 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T15:22:16.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T17:19:19.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Discussion.cs",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Models\\Discussion.cs",
+              "RelativeDocumentMoniker": "Models\\Discussion.cs",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Models\\Discussion.cs",
+              "RelativeToolTip": "Models\\Discussion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:29:51.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:59:56.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DiscussionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Controllers\\DiscussionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DiscussionsController.cs",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Controllers\\DiscussionsController.cs",
+              "RelativeToolTip": "Controllers\\DiscussionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:59:20.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:48:19.018Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Discussions\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Details.cshtml",
-              "RelativeToolTip": "Views\\Discussions\\Details.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAD8AAABCAAAAAAAAAA==",
+              "Title": "CommentsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Controllers\\CommentsApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentsApiController.cs",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Controllers\\CommentsApiController.cs",
+              "RelativeToolTip": "Controllers\\CommentsApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:48:00.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwC8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T17:18:15.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T16:19:49.786Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Discussions\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Discussions\\Create.cshtml",
-              "RelativeToolTip": "Views\\Discussions\\Create.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Title": "GetDiscussion.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Home\\GetDiscussion.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\GetDiscussion.cshtml",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Home\\GetDiscussion.cshtml",
+              "RelativeToolTip": "Views\\Home\\GetDiscussion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T17:16:05.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T16:19:59.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "Views\\Home\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T17:20:19.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -522,58 +407,31 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T01:42:41.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T16:54:04.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
+              "DocumentIndex": 25,
+              "Title": "20250212165000_MakeAuthorOptional.cs",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Migrations\\20250212165000_MakeAuthorOptional.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250212165000_MakeAuthorOptional.cs",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Migrations\\20250212165000_MakeAuthorOptional.cs",
+              "RelativeToolTip": "Migrations\\20250212165000_MakeAuthorOptional.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-10T01:03:13.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "20250210000123_AddCommentsToDiscussion.cs",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Migrations\\20250210000123_AddCommentsToDiscussion.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250210000123_AddCommentsToDiscussion.cs",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Migrations\\20250210000123_AddCommentsToDiscussion.cs",
-              "RelativeToolTip": "Migrations\\20250210000123_AddCommentsToDiscussion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T00:01:23.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T16:50:01.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "20250206185948_AddImageFileNameToDiscussion.cs",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Migrations\\20250206185948_AddImageFileNameToDiscussion.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250206185948_AddImageFileNameToDiscussion.cs",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Migrations\\20250206185948_AddImageFileNameToDiscussion.cs",
-              "RelativeToolTip": "Migrations\\20250206185948_AddImageFileNameToDiscussion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T18:59:48.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-06T15:35:41.202Z"
+              "DocumentIndex": 24,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T16:06:43.795Z"
             }
           ]
         }

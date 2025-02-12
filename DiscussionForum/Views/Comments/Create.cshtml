@@ -2,23 +2,30 @@
 
 <div class="row">
     <div class="col-md-12">
-        <form asp-action="Create" asp-controller="Comments">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <form id="comment-form">
             <div class="form-group mb-3">
-                <label asp-for="Content" class="control-label">Your Comment</label>
-                <textarea asp-for="Content" class="form-control" rows="3" required></textarea>
-                <span asp-validation-for="Content" class="text-danger"></span>
+                <label for="Content" class="control-label">Your Comment</label>
+                <textarea id="Content" class="form-control" rows="3" required></textarea>
+                <div class="invalid-feedback">
+                    Please enter a comment.
+                </div>
             </div>
-            <input type="hidden" asp-for="DiscussionId" value="@ViewBag.DiscussionId" />
+
+            <input type="hidden" id="DiscussionId" value="@ViewBag.DiscussionId" />
+
             <div class="form-group mb-3">
-                <input type="submit" value="Post Comment" class="btn btn-primary" />
+                <button type="submit" class="btn btn-primary">Post Comment</button>
             </div>
         </form>
+
+        <div id="comments-container" class="mt-4">
+        </div>
     </div>
 </div>
 
 @section Scripts {
-    @{
-        await Html.RenderPartialAsync("_ValidationScriptsPartial");
-    }
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
 }

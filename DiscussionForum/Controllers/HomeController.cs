@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using DiscussionForum.Data; 
-using DiscussionForum.Models; 
-using System.Linq;
+using Microsoft.EntityFrameworkCore;
+using DiscussionForum.Data;
+using DiscussionForum.Models;
 
 namespace DiscussionForum.Controllers
 {
@@ -11,32 +11,35 @@ namespace DiscussionForum.Controllers
 
         public HomeController(ApplicationDbContext context)
         {
-            _context = context; // Injects the database context
+            _context = context;
         }
 
-        // GET: Retrieves discussions ordered by their creation date, including comment counts
-        public IActionResult Index()
+        // displays the list of discussions with relevant details like title, date, comment count, and author.
+        public async Task<IActionResult> Index()
         {
-            var discussions = _context.Discussions
-                .OrderByDescending(d => d.CreateDate)
-                .Select(d => new
+            var discussions = await _context.Discussions
+                .Select(d => new DiscussionViewModel
                 {
-                    d.DiscussionId,
-                    d.Title,
-                    d.CreateDate,
-                    d.ImageFileName,
-                    CommentCount = _context.Comments.Count(c => c.DiscussionId == d.DiscussionId)
+                    DiscussionId = d.DiscussionId,
+                    Title = d.Title,
+                    CreateDate = d.CreateDate,
+                    ImageFileName = d.ImageFileName,
+                    // counts the number of comments associated with each discussion.
+                    CommentCount = _context.Comments.Count(c => c.DiscussionId == d.DiscussionId),
+                    Author = d.Author
                 })
-                .ToList();
+                .OrderByDescending(d => d.CreateDate)
+                .ToListAsync();
 
             return View(discussions);
         }
 
-        // GET: Fetches a specific discussion by its ID, returning a 404 if not found
-        public IActionResult GetDiscussion(int id)
+        // displays a specific discussion along with its associated comments.
+        public async Task<IActionResult> GetDiscussion(int id)
         {
-            var discussion = _context.Discussions
-                .FirstOrDefault(d => d.DiscussionId == id);
+            var discussion = await _context.Discussions
+                .Include(d => d.Comments)
+                .FirstOrDefaultAsync(d => d.DiscussionId == id);
 
             if (discussion == null)
             {
@@ -46,9 +49,22 @@ namespace DiscussionForum.Controllers
             return View(discussion);
         }
 
+        // handles errors and returns the error view.
         public IActionResult Error()
         {
-            return View();
+            return View(new ErrorViewModel { RequestId = System.Diagnostics.Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+    }
+
+    // viewModel to hold discussion details for display in the Index view.
+    public class DiscussionViewModel
+    {
+        public int DiscussionId { get; set; }
+        public string Title { get; set; } = string.Empty;
+        public DateTime CreateDate { get; set; }
+        public string? ImageFileName { get; set; }
+        // holds the count of comments for each discussion.
+        public int CommentCount { get; set; }
+        public string Author { get; set; } = string.Empty;
     }
 }

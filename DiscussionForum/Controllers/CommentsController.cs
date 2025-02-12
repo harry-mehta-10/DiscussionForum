@@ -1,10 +1,7 @@
-using System;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using DiscussionForum.Data;
 using DiscussionForum.Models;
-using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace DiscussionForum.Controllers
 {
@@ -17,15 +14,15 @@ namespace DiscussionForum.Controllers
             _context = context;
         }
 
-        // GET: Displays a list of all comments along with their associated discussions
-        public async Task<IActionResult> Index()
+        // displays the view to create a comment for a specific discussion.
+        public IActionResult Create(int discussionId)
         {
-            var applicationDbContext = _context.Comments.Include(c => c.Discussion);
-            return View(await applicationDbContext.ToListAsync());
+            ViewBag.DiscussionId = discussionId;
+            return View();
         }
 
-        // GET: Displays the details of a specific comment
-        public async Task<IActionResult> Details(int? id)
+        // retrieves and displays the comment to be edited.
+        public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
             {
@@ -34,7 +31,8 @@ namespace DiscussionForum.Controllers
 
             var comment = await _context.Comments
                 .Include(c => c.Discussion)
-                .FirstOrDefaultAsync(m => m.CommentId == id);
+                .FirstOrDefaultAsync(c => c.CommentId == id);
+
             if (comment == null)
             {
                 return NotFound();
@@ -43,48 +41,10 @@ namespace DiscussionForum.Controllers
             return View(comment);
         }
 
-        public IActionResult Create(int discussionId)
-        {
-            ViewBag.DiscussionId = discussionId;
-            return View();
-        }
-
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Content,DiscussionId")] Comment comment)
-        {
-            if (ModelState.IsValid)
-            {
-                comment.CreateDate = DateTime.Now;
-                _context.Add(comment);
-                await _context.SaveChangesAsync();
-
-                return RedirectToAction("Details", "Discussions", new { id = comment.DiscussionId });
-            }
-
-            ViewBag.DiscussionId = comment.DiscussionId;
-            return View(comment);
-        }
-
-        public async Task<IActionResult> Edit(int? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var comment = await _context.Comments.FindAsync(id);
-            if (comment == null)
-            {
-                return NotFound();
-            }
-            ViewData["DiscussionId"] = new SelectList(_context.Discussions, "DiscussionId", "DiscussionId", comment.DiscussionId);
-            return View(comment);
-        }
-
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("CommentId,Content,CreateDate,DiscussionId")] Comment comment)
+        // handles the actual edit operation for a comment.
+        public async Task<IActionResult> Edit(int id, [Bind("CommentId,Content,DiscussionId,Author,CreateDate")] Comment comment)
         {
             if (id != comment.CommentId)
             {
@@ -95,8 +55,16 @@ namespace DiscussionForum.Controllers
             {
                 try
                 {
-                    _context.Update(comment);
+                    var existingComment = await _context.Comments.FindAsync(id);
+                    if (existingComment == null)
+                    {
+                        return NotFound();
+                    }
+
+                    existingComment.Content = comment.Content;
                     await _context.SaveChangesAsync();
+
+                    return RedirectToAction("GetDiscussion", "Home", new { id = comment.DiscussionId });
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -109,44 +77,29 @@ namespace DiscussionForum.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
             }
-            ViewData["DiscussionId"] = new SelectList(_context.Discussions, "DiscussionId", "DiscussionId", comment.DiscussionId);
             return View(comment);
         }
 
-        public async Task<IActionResult> Delete(int? id)
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        // handles comment deletion and redirects to the discussion page.
+        public async Task<IActionResult> Delete(int id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var comment = await _context.Comments
-                .Include(c => c.Discussion)
-                .FirstOrDefaultAsync(m => m.CommentId == id);
+            var comment = await _context.Comments.FindAsync(id);
             if (comment == null)
             {
                 return NotFound();
             }
 
-            return View(comment);
-        }
-
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
-        {
-            var comment = await _context.Comments.FindAsync(id);
-            if (comment != null)
-            {
-                _context.Comments.Remove(comment);
-            }
-
+            int discussionId = comment.DiscussionId;
+            _context.Comments.Remove(comment);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+
+            return RedirectToAction("GetDiscussion", "Home", new { id = discussionId });
         }
 
+        // checks if a comment exists in the database.
         private bool CommentExists(int id)
         {
             return _context.Comments.Any(e => e.CommentId == id);

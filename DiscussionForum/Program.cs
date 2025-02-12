@@ -3,28 +3,29 @@ using DiscussionForum.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Adds services to the container.
 builder.Services.AddControllersWithViews();
-
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 
-// Configures the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
-    app.UseExceptionHandler("/Home/Error"); // Handles errors by redirecting to the error page
+    app.UseExceptionHandler("/Home/Error");
     app.UseHsts();
+}
+else
+{
+    app.UseDeveloperExceptionPage();
 }
 
 app.UseHttpsRedirection();
-app.UseStaticFiles(); 
+app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Discussions}/{action=Index}/{id?}"); // Default route to Discussions
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

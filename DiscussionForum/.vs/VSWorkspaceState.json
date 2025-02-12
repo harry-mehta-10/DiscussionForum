@@ -1,14 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Controllers",
-    "\\Data",
-    "\\Models",
-    "\\Views",
-    "\\Views\\Comments",
-    "\\Views\\Discussions",
-    "\\Views\\Home"
+    ""
   ],
-  "SelectedNode": "\\Controllers\\HomeController.cs",
+  "SelectedNode": "\\DiscussionForum.sln",
   "PreviewInSolutionExplorer": false
 }
