@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\DiscussionForum.csproj": {}
+    "C:\\Users\\Harry\\Desktop\\Assignment-2_login\\Discussion-Forum\\DiscussionForum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\DiscussionForum.csproj": {
+    "C:\\Users\\Harry\\Desktop\\Assignment-2_login\\Discussion-Forum\\DiscussionForum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\DiscussionForum.csproj",
+        "projectUniqueName": "C:\\Users\\Harry\\Desktop\\Assignment-2_login\\Discussion-Forum\\DiscussionForum.csproj",
         "projectName": "DiscussionForum",
-        "projectPath": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\DiscussionForum.csproj",
+        "projectPath": "C:\\Users\\Harry\\Desktop\\Assignment-2_login\\Discussion-Forum\\DiscussionForum.csproj",
         "packagesPath": "C:\\Users\\Harry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Harry\\Desktop\\INFT 4000\\INFT-4000-assignment-01\\DiscussionForum\\obj\\",
+        "outputPath": "C:\\Users\\Harry\\Desktop\\Assignment-2_login\\Discussion-Forum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,23 +50,31 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
               "version": "[9.0.1, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[9.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[9.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[9.0.2, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",

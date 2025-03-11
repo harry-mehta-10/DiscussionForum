@@ -1,0 +1,61 @@
+﻿@model IEnumerable<DiscussionForum.Controllers.DiscussionViewModel>
+@{
+    ViewData["Title"] = "User Profile";
+    var profileUser = (DiscussionForum.Models.ApplicationUser)ViewData["ProfileUser"];
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card mb-4">
+                <div class="card-body text-center">
+                    @if (!string.IsNullOrEmpty(profileUser.ImageFilename))
+                    {
+                        <img src="/images/profiles/@profileUser.ImageFilename" alt="Profile" class="img-fluid rounded-circle profile-image mb-3" style="max-width: 150px;" />
+                    }
+                    else
+                    {
+                        <img src="/images/profiles/default-profile.png" alt="Default Profile" class="img-fluid rounded-circle profile-image mb-3" style="max-width: 150px;" />
+                    }
+                    <h3 class="card-title">@profileUser.Name</h3>
+                    @if (!string.IsNullOrEmpty(profileUser.Location))
+                    {
+                        <p class="text-muted">@profileUser.Location</p>
+                    }
+                    <p class="text-muted">@profileUser.Email</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">
+                    <h4>Discussions (@Model.Count())</h4>
+                </div>
+                <div class="card-body">
+                    @if (Model.Any())
+                    {
+                        @foreach (var discussion in Model)
+                        {
+                            <div class="discussion-card mb-3 p-3 border rounded">
+                                <h5 class="discussion-title">
+                                    <a asp-controller="Home" asp-action="GetDiscussion" asp-route-id="@discussion.DiscussionId">
+                                        @discussion.Title
+                                    </a>
+                                </h5>
+                                <div class="discussion-meta text-muted">
+                                    <small>Posted on @discussion.CreateDate.ToString("MMM dd, yyyy")</small>
+                                    <small>• @discussion.CommentCount Comments</small>
+                                </div>
+                            </div>
+                        }
+                    }
+                    else
+                    {
+                        <p class="text-muted">This user hasn't created any discussions yet.</p>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
